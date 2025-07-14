@@ -107,7 +107,7 @@ terraform destroy
 ## 📁 Project Structure
 
 ```
-aws-automation-project/
+Rollingproject/
 ├── main.py                    # Main entry point and user interface
 ├── input_handler.py           # User input validation and processing
 ├── template_renderer.py       # Jinja2 template rendering logic
@@ -177,16 +177,3 @@ Screenshots of successful execution can be found in the `screenshots/` directory
 2. Create a feature branch
 3. Implement changes with appropriate tests
 4. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Yuval Davidson**  
-DevOps Automation Student
-
----
-
-*This project demonstrates practical implementation of Infrastructure as Code principles using modern DevOps tools and practices.*
